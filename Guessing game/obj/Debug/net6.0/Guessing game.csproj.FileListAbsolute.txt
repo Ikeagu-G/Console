@@ -1,0 +1,15 @@
+C:\Users\Chidubem Ikeagwu\source\repos\Guessing game\Guessing game\bin\Debug\net6.0\Guessing game.exe
+C:\Users\Chidubem Ikeagwu\source\repos\Guessing game\Guessing game\bin\Debug\net6.0\Guessing game.deps.json
+C:\Users\Chidubem Ikeagwu\source\repos\Guessing game\Guessing game\bin\Debug\net6.0\Guessing game.runtimeconfig.json
+C:\Users\Chidubem Ikeagwu\source\repos\Guessing game\Guessing game\bin\Debug\net6.0\Guessing game.dll
+C:\Users\Chidubem Ikeagwu\source\repos\Guessing game\Guessing game\bin\Debug\net6.0\Guessing game.pdb
+C:\Users\Chidubem Ikeagwu\source\repos\Guessing game\Guessing game\obj\Debug\net6.0\Guessing game.csproj.AssemblyReference.cache
+C:\Users\Chidubem Ikeagwu\source\repos\Guessing game\Guessing game\obj\Debug\net6.0\Guessing game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chidubem Ikeagwu\source\repos\Guessing game\Guessing game\obj\Debug\net6.0\Guessing game.AssemblyInfoInputs.cache
+C:\Users\Chidubem Ikeagwu\source\repos\Guessing game\Guessing game\obj\Debug\net6.0\Guessing game.AssemblyInfo.cs
+C:\Users\Chidubem Ikeagwu\source\repos\Guessing game\Guessing game\obj\Debug\net6.0\Guessing game.csproj.CoreCompileInputs.cache
+C:\Users\Chidubem Ikeagwu\source\repos\Guessing game\Guessing game\obj\Debug\net6.0\Guessing game.dll
+C:\Users\Chidubem Ikeagwu\source\repos\Guessing game\Guessing game\obj\Debug\net6.0\refint\Guessing game.dll
+C:\Users\Chidubem Ikeagwu\source\repos\Guessing game\Guessing game\obj\Debug\net6.0\Guessing game.pdb
+C:\Users\Chidubem Ikeagwu\source\repos\Guessing game\Guessing game\obj\Debug\net6.0\Guessing game.genruntimeconfig.cache
+C:\Users\Chidubem Ikeagwu\source\repos\Guessing game\Guessing game\obj\Debug\net6.0\ref\Guessing game.dll
